@@ -1,1 +1,1 @@
-# DappSimpleStorage Custom
+# Dapp Simple Storage Custom Design
